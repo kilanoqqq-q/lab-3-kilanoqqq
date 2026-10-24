@@ -1,0 +1,20 @@
+#name {
+    font-size: 80px;
+    padding-left: 100px;
+    display: inline-block;
+}
+
+#contacts {
+    padding-left: 200px;
+    font-size: 30px;
+    display: inline-block;
+}
+
+button {
+    font-size: 150px;
+}
+
+#order {
+    padding-top: 100px;
+    text-align: center;
+}
