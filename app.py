@@ -34,4 +34,4 @@ if __name__ == "__main__":
     ftp_thread = threading.Thread(target=run_ftp_server, daemon=True)
     ftp_thread.start()
 
-    app.run(debug=True, port=4000)
+    app.run(debug=True, port=5000, host='0.0.0.0')
